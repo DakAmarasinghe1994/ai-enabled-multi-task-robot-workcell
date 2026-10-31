@@ -1,2 +1,65 @@
-# ai-enabled-multi-task-robot-workcell
-AI-enabled robotic workcell integrating YOLOv8, ZED stereo vision, and DexArm control for conveyor-based tool picking.
+# AI-Enabled Multi-Task Robot Work-Cell
+
+An integrated robotic workcell combining computer vision, stereo-depth
+perception, and robot control for conveyor-based tool picking.
+
+## Project Overview
+
+This project integrates a Rotrics DexArm, a ZED stereo camera, and
+YOLOv8-based object detection to identify tools and coordinate robotic
+picking operations.
+
+The perception pipeline characterizes detected objects, estimates their
+position and orientation, and transforms camera measurements into
+robot-control coordinates. Grasp-verification and retry logic support
+recovery from unsuccessful pick attempts.
+
+## My Contributions
+
+- Developed the Python perception and robot-control implementation.
+- Integrated YOLOv8 detection for hammer, wrench, and screwdriver classes.
+- Implemented stereo-depth-based object position estimation.
+- Developed object orientation, size, and color characterization workflows.
+- Implemented coordinate transformations and grasp alignment.
+- Integrated socket communication between perception and control components.
+- Developed grasp-verification and retry logic.
+- Tested and refined the integrated workcell.
+
+## System Workflow
+
+1. Acquire camera images and depth information.
+2. Detect and classify tools using YOLOv8.
+3. Estimate object position, orientation, and relevant characteristics.
+4. Transform the target into robot-control coordinates.
+5. Execute the picking sequence.
+6. Check the grasp outcome and retry when required.
+
+## Technologies and Hardware
+
+**Software:** Python, Linux, YOLOv8, OpenCV, ZED SDK, socket communication
+
+**Hardware:** Rotrics DexArm, ZED stereo camera, conveyor,
+and pneumatic gripping equipment
+
+## Project Documentation
+
+The PDFs in this repository provide:
+
+- A visual portfolio overview.
+- A detailed technical project description.
+- System architecture and software-flow diagrams.
+- Implementation details, screenshots, testing, and development limitations.
+
+## Engineering Skills Demonstrated
+
+Computer vision • AI-enabled robotics • Stereo perception •
+Robotic manipulation • Coordinate transformations •
+Hardware-software integration • Communication interfaces •
+System testing and troubleshooting
+
+## Author
+
+**Dakshitha (Dak) Amarasinghe**
+
+[GitHub Portfolio](https://github.com/DakAmarasinghe1994) |
+[LinkedIn](https://www.linkedin.com/in/dak-amarasinghe-946aa71b1/)
