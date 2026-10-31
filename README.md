@@ -1,4 +1,5 @@
 # AI-Enabled Multi-Task Robot Work-Cell
+![AI-enabled robotic workcell](./workcell-overview.png)
 
 An integrated robotic workcell combining computer vision, stereo-depth
 perception, and robot control for conveyor-based tool picking.
