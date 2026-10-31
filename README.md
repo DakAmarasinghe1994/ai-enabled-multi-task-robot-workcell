@@ -43,12 +43,12 @@ and pneumatic gripping equipment
 
 ## Project Documentation
 
-The PDFs in this repository provide:
+- [View Project Portfolio](./Dak-Amarasinghe-Robot-Workcell-Portfolio.pdf)  
+  Visual overview of the workcell, key features, and project results.
 
-- A visual portfolio overview.
-- A detailed technical project description.
-- System architecture and software-flow diagrams.
-- Implementation details, screenshots, testing, and development limitations.
+- [View Detailed Project Description](./AI-Enabled-Workcell-Project-Description.pdf)  
+  System architecture, software diagram, implementation details,
+  screenshots, testing, and future development.
 
 ## Engineering Skills Demonstrated
 
