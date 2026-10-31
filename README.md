@@ -64,3 +64,22 @@ System testing and troubleshooting
 
 [GitHub Portfolio](https://github.com/DakAmarasinghe1994) |
 [LinkedIn](https://www.linkedin.com/in/dak-amarasinghe-946aa71b1/)
+
+## Source Code
+
+The Python implementation is available in the [src folder](./src).
+
+The system uses separate scripts for perception and communication,
+robot control, and coordinated workcell operation.
+
+Hardware, compatible libraries, model weights, and any additional
+runtime modules are required to reproduce the physical setup.
+
+## Trained Model
+
+Download the trained YOLO model:
+
+[Download my_model1.pt](https://drive.google.com/file/d/14nqeBTfiZt28odT7dN9USUvqWQyW35h6/view?usp=drive_link)
+
+After downloading, place `my_model1.pt` in the location expected
+by the model-loading path in `sender4.py`.
