@@ -1,0 +1,3 @@
+Place All the files in the same directory. 
+
+For real-time data transmission: Run 'sender4.py', 's1client4.py' and 's2client4.py' on separate terminals. 'sender4.py' should be activated before activating both clients.
