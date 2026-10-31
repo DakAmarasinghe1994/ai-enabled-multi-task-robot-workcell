@@ -83,3 +83,12 @@ Download the trained YOLO model:
 
 After downloading, place `my_model1.pt` in the location expected
 by the model-loading path in `sender4.py`.
+
+## Setup and Execution
+
+See the [startup instructions](./src/instructions.txt) for setup
+and execution steps.
+
+Download the trained model using the link under Trained Model,
+and update device ports, network addresses, and file paths
+to match your setup.
