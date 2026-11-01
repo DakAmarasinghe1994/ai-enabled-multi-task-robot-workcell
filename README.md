@@ -42,6 +42,22 @@ recovery from unsuccessful pick attempts.
 **Hardware:** Rotrics DexArm, ZED stereo camera, conveyor,
 and pneumatic gripping equipment
 
+## Demo Videos
+
+Watch demonstrations of the AI-enabled robotic workcell:
+
+- [Watch: Introduction](https://drive.google.com/file/d/1-juMT99Uj9D283hirTIhkvdxa2Ej1OVh/view?usp=drive_link)
+- [Watch: Tool Information Detection & Calibration 1](https://drive.google.com/file/d/1B-SQypjMNDEmQPNe_K43B4KxV4kbyzsx/view?usp=drive_link)
+- [Watch: Tool Information Detection & Calibration 2](https://drive.google.com/file/d/1YMlAzv9VgIFCC2B1SNCxJUYka6SzJE8Y/view?usp=drive_link)
+- [Watch: Arm Control 1](https://drive.google.com/file/d/1Pau_SqXV3tRNDvwDEB89djfkR7_l94Lm/view?usp=drive_link)
+- [Watch: Arm Control 2](https://drive.google.com/file/d/132BvQwrwwBVOHd44AzEI1fjJFoBEei9Y/view?usp=drive_link)
+- [Watch: Arm Control 3](https://drive.google.com/file/d/1hl_usDQx-6aVXQW72eKvX7lAJmLEwJ4F/view?usp=drive_link)
+- [Watch: Arm Control 4](https://drive.google.com/file/d/13MVHOX0H8HOaaAPNSYfQF0aM7XIQpsHY/view?usp=drive_link)
+- [Watch: Arm Control 5 with Grasp Checking](https://drive.google.com/file/d/1KednTA5kmUSawbzX-xAxMV1LJryH__1C/view?usp=drive_link)
+- [Watch: Arm Control 6 with Grasp Checking](https://drive.google.com/file/d/13YEDwlg_NV3jcQ0WOiqqCCGhtJCnv6Zi/view?usp=drive_link)
+
+Videos are hosted on Google Drive.
+
 ## Project Documentation
 
 - [View Project Portfolio](./Dak-Amarasinghe-Robot-Workcell-Portfolio.pdf)  
