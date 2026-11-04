@@ -67,6 +67,9 @@ Videos are hosted on Google Drive.
   System architecture, software diagram, implementation details,
   screenshots, testing, and future development.
 
+- [View Final Project Report](./Capstone-Design-Final-Project-Report-Dak-Amarasinghe.pdf)  
+  Detailed final report of the project.
+
 ## Engineering Skills Demonstrated
 
 Computer vision • AI-enabled robotics • Stereo perception •
